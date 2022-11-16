@@ -1,0 +1,630 @@
+.container {
+    position: relative;
+}
+.menu-center {
+    width: 100%;
+    height: 130px;
+}
+.menu {
+    position: relative;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    top: -120px;
+    left:230px;
+    gap: 10px;
+
+}
+.menu li {
+    display: inline-block;
+    color:gray;
+}
+.menu li a {
+    display: inline-block;
+    color: slategray;
+    opacity: 0.8;
+    text-decoration: none;
+    padding: 19px;
+    trasition: all 0.9s ease-in-out;
+    font-family:"fantasy";
+    font-size: 17px;
+    margin-left: 50px;
+}
+.logo {
+    top: 10px;
+    left: 10px;
+    height:181px;
+    width:220px;
+    margin:-40px;
+    padding:20px;
+    margin-left: -20px;
+}
+.body {
+    position: relative;
+}
+.pic1 {
+    height:200px;
+    width:299px;
+    margin:-20px;
+    padding:15px;
+    margin-left: 8px;
+}
+.pic2 {
+    height:200px;
+    width:199px;
+    margin:-20px;
+    padding:15px;
+    margin-left:-8px;
+
+}
+
+.pic3 {
+    height:200px;
+    width:132px;
+    margin:-20px;
+    padding:15px;
+    margin-left:-8px;
+}
+.pic4 {
+    height:200px;
+    width:300px;
+    margin:-20px;
+    padding:15px;
+    margin-left:-8px;
+}
+
+.pic5 {
+    height:200px;
+    width:134px;
+    margin:-20px;
+    padding:15px;
+    margin-left:-8px;
+}
+
+.pic6 {
+    height:200px;
+    width:330px;
+    margin:-20px;
+    padding:15px;
+    margin-left:-8px;
+}
+
+.pic7 {
+    height:183px;
+    width:136px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-8px;
+}
+
+.pic8 {
+    height:183px;
+    width:274px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-31px;
+}
+.pic9 {
+    height:183px;
+    width:273px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-31px;
+}
+.pic10 {
+    height:183px;
+    width:273px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-31px;
+}
+.pic11 {
+    height:183px;
+    width:182px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-31px;
+}
+.pic12 {
+    height:183px;
+    width:257px;
+    margin:-27px;
+    padding:30px;
+    margin-left:-31px;
+}
+.pic13 {
+    height:194px;
+    width:150px;
+    margin:-59px;
+    padding:54px;
+    margin-left:-31px;
+}
+.pic14 {
+     height:194px;
+     width:290px;
+     margin:-59px;
+     padding:54px;
+     margin-left:-49px;
+}
+.pic15 {
+    height:194px;
+    width:290px;
+    margin:-59px;
+    padding:54px;
+    margin-left:-49px;
+}
+.pic16 {
+    height:194px;
+    width:290px;
+    margin:-59px;
+    padding:54px;
+    margin-left:-49px;
+}
+.pic17 {
+    height:194px;
+    width:136px;
+    margin:-59px;
+    padding:54px;
+    margin-left:-49px;
+}
+.pic18 {
+    height:194px;
+    width:248px;
+    margin:-59px;
+    padding:54px;
+    margin-left:-49px;
+}
+.pic19 {
+    height:189px;
+    width:283px;
+    margin:-69px;
+    padding:72px;
+    margin-left:-49px;
+}
+.pic20 {
+    height:189px;
+    width:283px;
+    margin:-69px;
+    padding:72px;
+    margin-left:-74px;
+}
+.pic21 {
+    height:189px;
+    width:282px;
+    margin:-69px;
+    padding:72px;
+    margin-left:-74px;
+}
+.pic22 {
+    height:189px;
+    width:282px;
+    margin:-69px;
+    padding:72px;
+    margin-left:-74px;
+}
+.pic23 {
+    height:189px;
+    width:269px;
+    margin:-69px;
+    padding:72px;
+    margin-left:-74px;
+}
+.pic24 {
+    height:191px;
+    width:260px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-74px;
+}
+.pic25 {
+    height:191px;
+    width:265px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-89px;
+}
+.pic26 {
+    height:191px;
+    width:265px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-89px;
+}
+.pic27 {
+    height:191px;
+    width:250px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-89px;
+}
+.pic28 {
+    height:191px;
+    width:250px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-89px;
+}
+.pic29 {
+    height:191px;
+    width:105px;
+    margin:-99px;
+    padding:95px;
+    margin-left:-89px;
+}
+
+.abc {
+    font-family:"Roboto";
+    font-size: 20px;
+    margin-left: 680px;
+    padding: 30px;
+    color:#585656
+}
+.blpic {
+    height:548px;
+    width:1406px;
+    margin:-140px;
+    padding:110px;
+    margin-left:-89px;
+}
+.canada {
+    font-family:"Roboto";
+    font-size: 20px;
+    margin-left: 680px;
+    padding: 60px;
+    color:#585656
+}
+
+.can1 {
+    height:203px;
+    width:304px;
+    margin:-150px;
+    padding:115px;
+    margin-left:-89px;
+    transition: .3s linear;
+}
+.can1:hover {
+    transform: scale(1.2);
+}
+.can2 {
+    height:203px;
+    width:297px;
+    margin:-150px;
+    padding:115px;
+    margin-left:-78px;
+    transition: .3s linear;
+}
+.can2:hover {
+    transform: scale(1.2);
+}
+.can3 {
+    height:203px;
+    width:203px;
+    margin:-150px;
+    padding:115px;
+    margin-left:-78px;
+    transition: .3s linear;
+}
+.can3:hover {
+    transform: scale(1.2);
+}
+.can4 {
+    height:203px;
+    width:304px;
+    margin:-150px;
+    padding:115px;
+    margin-left:-78px;
+    transition: .3s linear;
+}
+.can4:hover {
+    transform: scale(1.2);
+}
+.can5 {
+    height:203px;
+    width:280px;
+    margin:-150px;
+    padding:115px;
+    margin-left:-78px;
+    transition: .3s linear;
+}
+.can5:hover {
+    transform: scale(1.2);
+}
+.can6 {
+    height:233px;
+    width:349px;
+    margin:-72px;
+    padding:105px;
+    margin-left:-78px;
+    transition: .3s linear;
+}
+.can6:hover {
+    transform: scale(1.2);
+}
+.can7 {
+    height:233px;
+    width:365px;
+    margin:-72px;
+    padding:105px;
+    margin-left:-136px;
+    transition: .3s linear;
+}
+.can7:hover {
+    transform: scale(1.2);
+}
+.can8 {
+    height:233px;
+    width:349px;
+    margin:-72px;
+    padding:105px;
+    margin-left:-136px;
+    transition: .3s linear;
+}
+.can8:hover {
+    transform: scale(1.2);
+}
+.can9 {
+    height:233px;
+    width:311px;
+    margin:-72px;
+    padding:105px;
+    margin-left:-136px;
+    transition: .3s linear;
+}
+.can9:hover {
+    transform: scale(1.2);
+}
+.can10 {
+    height:240px;
+    width:160px;
+    margin:-198px;
+    padding:163px;
+    margin-left:-136px;
+    transition: .3s linear;
+}
+.can10:hover {
+    transform: scale(1.2);
+}
+.can11 {
+    height:240px;
+    width:360px;
+    margin:-198px;
+    padding:163px;
+    margin-left:-126px;
+    transition: .3s linear;
+}
+.can11:hover {
+    transform: scale(1.2);
+}
+.can12 {
+    height:240px;
+    width:360px;
+    margin:-198px;
+    padding:163px;
+    margin-left:-126px;
+    transition: .3s linear;
+}
+.can12:hover {
+     transform: scale(1.2);
+ }
+.can13 {
+    height:240px;
+    width:177px;
+    margin:-198px;
+    padding:163px;
+    margin-left:-126px;
+    transition: .3s linear;
+}
+.can13:hover {
+    transform: scale(1.2);
+}
+.can14 {
+    height:240px;
+    width:328px;
+    margin:-198px;
+    padding:163px;
+    margin-left:-126px;
+    transition: .3s linear;
+}
+.can14:hover {
+    transform: scale(1.2);
+}
+.iconface {
+    height:30px;
+    width:43px;
+    margin:-210px;
+    padding:120px;
+    margin-left:500px;
+}
+.icontwitter {
+    height:30px;
+    width:43px;
+    margin:-210px;
+    padding:120px;
+    margin-left:10px;
+}
+.iconinsta {
+    height:30px;
+    width:43px;
+    margin:-210px;
+    padding:120px;
+    margin-left:10px;
+}
+.iconyou {
+    height:30px;
+    width:43px;
+    margin:-210px;
+    padding:120px;
+    margin-left:10px;
+}
+.final-menu {
+    width: 100%;
+    height: 130px;
+}
+.footer {
+    position: relative;
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    display: flex;
+    padding-top: 250px;
+    margin: 5px;
+    top: -120px;
+    left:400px;
+    gap: 20px;
+    margin-left: 210px;
+}
+.footer a {
+    text-decoration: none;
+    color:darkblue;
+}
+.photo1 {
+    position: relative;
+    display: inline-block;
+}
+.h1 {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top:0px;
+    left:30px;
+}
+.photo2 {
+    position: relative;
+    display: inline-block;
+}
+.photo3 {
+    position: relative;
+    display: inline-block;
+}
+.photo4 {
+    position: relative;
+    display: inline-block;
+}
+.photo5 {
+    position: relative;
+    display: inline-block;
+}
+.photo6 {
+    position: relative;
+    display: inline-block;
+}
+.photo7 {
+    position: relative;
+    display: inline-block;
+}
+.photo8 {
+    position: relative;
+    display: inline-block;
+}
+.photo9 {
+    position: relative;
+    display: inline-block;
+}
+.photo10 {
+    position: relative;
+    display: inline-block;
+}
+.photo11 {
+    position: relative;
+    display: inline-block;
+}
+.photo12 {
+    position: relative;
+    display: inline-block;
+}
+.photo13 {
+    position: relative;
+    display: inline-block;
+}
+.photo14 {
+    position: relative;
+    display: inline-block;
+}
+.photo15 {
+    position: relative;
+    display: inline-block;
+}
+.photo16 {
+    position: relative;
+    display: inline-block;
+}
+.photo17 {
+    position: relative;
+    display: inline-block;
+}
+.photo18 {
+    position: relative;
+    display: inline-block;
+}
+.photo19 {
+    position: relative;
+    display: inline-block;
+}
+.photo20 {
+    position: relative;
+    display: inline-block;
+}
+.photo21 {
+    position: relative;
+    display: inline-block;
+}.photo22 {
+     position: relative;
+     display: inline-block;
+ }
+.photo23 {
+    position: relative;
+    display: inline-block;
+}
+.photo24 {
+    position: relative;
+    display: inline-block;
+}
+.photo25 {
+    position: relative;
+    display: inline-block;
+}
+.photo26 {
+    position: relative;
+    display: inline-block;
+}
+.photo27 {
+    position: relative;
+    display: inline-block;
+}
+.photo28 {
+    position: relative;
+    display: inline-block;
+}
+.photo29 {
+    position: relative;
+    display: inline-block;
+}
+.about {
+
+    margin-left:120px;
+}
+.header {
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 400;
+    line-height: 1.4em;
+    text-align: center;
+}
+.lisa {
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+.lisainf {
+    height: 10px;
+    width:1200px;
+}
+.links {
+    text-decoration: none;
+    color:#C39F76;
+}
