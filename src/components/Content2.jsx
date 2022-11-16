@@ -1,7 +1,7 @@
 const Content = () => {
     return (
         <div>
-            <h1 className="canada">CANADA</h1>
+            <h1 className="canada">CANADA1</h1>
             <img src="can1.png" alt="" className="can1"/>
             <img src="can2.png" alt="" className="can2"/>
             <img src="can3.png" alt="" className="can3"/>
